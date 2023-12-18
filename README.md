@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Я начинающий тестировщик. Прокладываю свой путь from oil and gas engineer to QA developer.  С 2021 года в нефтяной сфере успел пройти путь от "работы руками" до белой каски, пробурить 37 скважин и поучаствовать в тестировании отечественного ПО и оборудования. И с этого момента началось моё погружение в мир QA.<br><br>* 🌍  I'm based in Russia, Saratov city<br>- 🔭  from oil and gas engineer to QA developer<br>- ⚡ I'll do my own Google<br>* ✉️  You can contact me at andrey26telegin@gmail.com, +79173219560 или tg: an_telegin</p>
+<p align="left">Я начинающий тестировщик. Прокладываю свой путь from oil and gas engineer to QA developer. С 2021 года в нефтяной сфере успел пройти путь от "работы руками" до белой каски, пробурить 37 скважин и поучаствовать в тестировании отечественного ПО и оборудования. И с этого момента началось моё погружение в мир QA.<br>* 🌍 I'm based in Russia, Saratov city<br>* 🔭 From Oil and Gas engineer to QA developer<br>* ✉️ You can contact me at andrey26telegin@gmail.com, +79173219560 или tg: an_telegin</p>
 
 ###
 
@@ -38,31 +38,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an26telegin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=an26telegin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an26telegin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
 
 ###
